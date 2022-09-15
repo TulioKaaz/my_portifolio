@@ -5,6 +5,8 @@ html {
 
 *, *:before, *:after {
 	box-sizing: inherit;
+	text-decoration: none;
+	color: black;
 }
 
 body, h1, h2, h3, h4, h5, h6, p, ol, ul {
