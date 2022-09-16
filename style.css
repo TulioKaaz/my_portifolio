@@ -18,6 +18,7 @@ body {
 
 .index-button {
 	padding: 12px 18px;
+	list-style: none;
 }
 
 .index-button > a {
@@ -54,4 +55,26 @@ h1 {
 	border: 3px solid #0267C1;
 	margin: auto auto auto 36px;
 	line-height: 28px;
+}
+
+#skills {
+	background-color: #F4F1DE;
+	padding: 16px 32px;
+	margin: 24px 14%;
+	border: 3px solid #0267C1;
+	border-radius: 8px;
+}
+
+h3 {
+	font-size: 22px;
+	font-weight: 600;
+	margin-bottom: 12px;
+}
+
+ul {
+	list-style: inside;
+	color: #BF0603;
+	font-weight: 600;
+	line-height: 32px;
+	font-size: 18px;
 }
