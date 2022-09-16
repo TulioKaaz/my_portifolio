@@ -1,4 +1,5 @@
 body {
+	background-color: #f29479;
 	font-family: Roboto, sans-serif;
 }
 
@@ -34,3 +35,23 @@ h1 {
 	line-height: 92px;
 }
 
+#bio {
+	padding: 24px 14%;
+	display: flex;
+}
+
+.avatar {
+	object-fit: cover;
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
+
+.bio-description {
+	background-color: #F4F1DE;
+	padding: 18px 36px;
+	border-radius: 8px;
+	border: 3px solid #0267C1;
+	margin: auto auto auto 36px;
+	line-height: 28px;
+}
